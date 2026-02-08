@@ -1,4 +1,3 @@
-GitHub → soc-siem-detection-lab → README.md → Edit → Paste → Commit
 SOC SIEM Detection Lab
 Overview
 
@@ -93,7 +92,8 @@ Isolate affected endpoint
 Block malicious IP or file hash
 
 Lessons Learned
-Improve detection rules and SOC response playbooks
+Improve detection rules and SOC response playbooks.
+
 Example Detection Case
 
 Scenario: Multiple failed login attempts followed by a successful authentication
